@@ -1,0 +1,20 @@
+{
+    "name": "Flappy Bird Controller",
+    "description": "",
+    "dependencies": {
+        "circuit-playground": "*",
+        "maker-controller": "github:microsoft/pxt-maker-controller#v0.0.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "adafruit"
+    ],
+    "preferredEditor": "blocksprj"
+}
